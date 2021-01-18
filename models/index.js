@@ -10,7 +10,7 @@ const Post = new mongoose.Schema({
   avatar   : String,
   like     : Number
 
-
+// testenaod o git
   
   
 });
