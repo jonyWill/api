@@ -10,8 +10,6 @@ const Post = new mongoose.Schema({
   avatar   : String,
   like     : Number
 
-// testenaod o git
-  
   
 });
 module.exports = mongoose.model('post', Post);
